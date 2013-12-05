@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="F2FF77FC-685C-4DCC-37ED-E4F9D8D44AA7" ownedBy="64013C33-4039-46C9-609A-A758CE51CA49">
+  <arch:name>
+    <arch:string>GIS-ID 64977</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Site</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>z_1_b_a90afcea6</oc:source>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>78E125BE-6CD6-4BA0-6B83-A7DA7D1EDE72</arch:variableID>
+          <arch:valueID>7D933B8C-4C0E-43C5-D86C-281A1B9EA588</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/B3CD0D6E-5F1D-41B2-AF6F-799E57C464B8">B3CD0D6E-5F1D-41B2-AF6F-799E57C464B8</oc:propid>
+          <oc:var_label type="nominal">Deleted</oc:var_label>
+          <oc:show_val>No</oc:show_val>
+        </arch:property>
+      </arch:properties>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/2A1B75E6-8C79-49B9-873A-A2E006669691">
+        <oc:name>United States</oc:name>
+        <oc:id>2A1B75E6-8C79-49B9-873A-A2E006669691</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/D2E98C2B-BD2F-48C9-CE23-E9F8F6ADF736">
+        <oc:name>Georgia</oc:name>
+        <oc:id>D2E98C2B-BD2F-48C9-CE23-E9F8F6ADF736</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/0AE23E36-7529-4550-110F-D038F5AC6B57">
+        <oc:name>Appling</oc:name>
+        <oc:id>0AE23E36-7529-4550-110F-D038F5AC6B57</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:metadata>
+    <dc:title>Georgia Archaeological Site File (GASF): GIS-ID 64977 (Site)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2013-11-14</dc:date>
+    <dc:subject>cultural resource management</dc:subject>
+    <dc:subject>site files</dc:subject>
+    <dc:subject>state historical preservation office</dc:subject>
+    <dc:subject>archaeology</dc:subject>
+    <dc:subject>North America</dc:subject>
+    <dc:subject>Georgia</dc:subject>
+    <dc:subject>DINAA</dc:subject>
+    <dc:subject/>
+    <dc:creator href="http://opencontext.org/persons/4D0DA783-B5A3-44CF-342A-4428F3116A71">Georgia Archaeological Site File (GASF) Curators</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/F2FF77FC-685C-4DCC-37ED-E4F9D8D44AA7</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/64013C33-4039-46C9-609A-A758CE51CA49">Georgia Archaeological Site File (GASF)</oc:project_name>
+    <oc:pub_date>2013-11-14T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Georgia+SHPO%3A+GIS-ID+64977+%28Site%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=cultural+resource+management&amp;rft.subject=site+files&amp;rft.subject=state+historical+preservation+office&amp;rft.subject=archaeology&amp;rft.subject=North+America&amp;rft.subject=Georgia&amp;rft.subject=DINAA&amp;rft.subject=&amp;rft.creator=Georgia+SHPO&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2FF2FF77FC-685C-4DCC-37ED-E4F9D8D44AA7</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>31.717359542847</oc:geo_lat>
+      <oc:geo_long>-82.303936004639</oc:geo_long>
+      <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/0AE23E36-7529-4550-110F-D038F5AC6B57" specificity="-1">
+        <oc:note>Data from geonames.org</oc:note>
+        <oc:source_name>Appling</oc:source_name>
+        <oc:source_id>0AE23E36-7529-4550-110F-D038F5AC6B57</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/publicdomain/zero/1.0/">
+      <oc:lic_name>Zero (Public Domain)</oc:lic_name>
+      <oc:lic_vers>1</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/publicdomain/zero/1.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/p/zero/1.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2013-11-14T21:26:52-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2013/11/14 21:26:52</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags/>
+  </oc:social_usage>
+</arch:spatialUnit>

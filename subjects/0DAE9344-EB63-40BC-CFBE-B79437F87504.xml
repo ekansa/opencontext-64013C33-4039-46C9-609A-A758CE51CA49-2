@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="0DAE9344-EB63-40BC-CFBE-B79437F87504" ownedBy="64013C33-4039-46C9-609A-A758CE51CA49">
+  <arch:name>
+    <arch:string>9QU55</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Site</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>z_1_a90afcea6</oc:source>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>9AD6D837-C89F-4F6F-08C6-34ACB757EDC9</arch:variableID>
+          <arch:valueID>3715DBE8-E96F-4AFC-8583-4525581CD75D</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/DAD05B09-9F46-4F2D-B1EB-A8C803C2C187">DAD05B09-9F46-4F2D-B1EB-A8C803C2C187</oc:propid>
+          <oc:var_label type="nominal">Period</oc:var_label>
+          <oc:show_val>General Woodland</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="9AD6D837-C89F-4F6F-08C6-34ACB757EDC9" href="http://opencontext.org/vocabularies/dinaa/00001">
+              <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+              <oc:label>Has period</oc:label>
+              <oc:targetLink localType="property" localID="DAD05B09-9F46-4F2D-B1EB-A8C803C2C187" localURI="http://opencontext.org/properties/DAD05B09-9F46-4F2D-B1EB-A8C803C2C187" href="http://opencontext.org/vocabularies/dinaa/00008">
+                <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+                <oc:label>Woodland</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>9AD6D837-C89F-4F6F-08C6-34ACB757EDC9</arch:variableID>
+          <arch:valueID>7D02C1B0-D5BE-41E5-201F-C3CD3C9A2FFF</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/ECC9AE2D-3548-40CD-9E4A-6D4AF9350DC8">ECC9AE2D-3548-40CD-9E4A-6D4AF9350DC8</oc:propid>
+          <oc:var_label type="nominal">Period</oc:var_label>
+          <oc:show_val>Late Archaic</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="9AD6D837-C89F-4F6F-08C6-34ACB757EDC9" href="http://opencontext.org/vocabularies/dinaa/00001">
+              <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+              <oc:label>Has period</oc:label>
+              <oc:targetLink localType="property" localID="ECC9AE2D-3548-40CD-9E4A-6D4AF9350DC8" localURI="http://opencontext.org/properties/ECC9AE2D-3548-40CD-9E4A-6D4AF9350DC8" href="http://opencontext.org/vocabularies/dinaa/00014">
+                <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+                <oc:label>Late Archaic</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>9AD6D837-C89F-4F6F-08C6-34ACB757EDC9</arch:variableID>
+          <arch:valueID>A1C02530-F216-4B44-C5D7-217733166DFD</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/D42D4DD3-7DBD-43ED-D197-EFC2093B71DC">D42D4DD3-7DBD-43ED-D197-EFC2093B71DC</oc:propid>
+          <oc:var_label type="nominal">Period</oc:var_label>
+          <oc:show_val>Middle Mississippian</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="9AD6D837-C89F-4F6F-08C6-34ACB757EDC9" href="http://opencontext.org/vocabularies/dinaa/00001">
+              <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+              <oc:label>Has period</oc:label>
+              <oc:targetLink localType="property" localID="D42D4DD3-7DBD-43ED-D197-EFC2093B71DC" localURI="http://opencontext.org/properties/D42D4DD3-7DBD-43ED-D197-EFC2093B71DC" href="http://opencontext.org/vocabularies/dinaa/00029">
+                <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+                <oc:label>Middle Mississippian</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>9AD6D837-C89F-4F6F-08C6-34ACB757EDC9</arch:variableID>
+          <arch:valueID>B7D75F33-0971-4CB2-DBEA-BF6DF5DC1C0D</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/7E02955B-C113-48CF-9432-2B8AD311734B">7E02955B-C113-48CF-9432-2B8AD311734B</oc:propid>
+          <oc:var_label type="nominal">Period</oc:var_label>
+          <oc:show_val>General Mississippian</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="9AD6D837-C89F-4F6F-08C6-34ACB757EDC9" href="http://opencontext.org/vocabularies/dinaa/00001">
+              <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+              <oc:label>Has period</oc:label>
+              <oc:targetLink localType="property" localID="7E02955B-C113-48CF-9432-2B8AD311734B" localURI="http://opencontext.org/properties/7E02955B-C113-48CF-9432-2B8AD311734B" href="http://opencontext.org/vocabularies/dinaa/00023">
+                <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+                <oc:label>Mississippian</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>9AD6D837-C89F-4F6F-08C6-34ACB757EDC9</arch:variableID>
+          <arch:valueID>E82410A7-FE36-4BAD-A3C3-2FF002468D2A</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/F9226478-270C-48EF-C2B6-B8A392186D48">F9226478-270C-48EF-C2B6-B8A392186D48</oc:propid>
+          <oc:var_label type="nominal">Period</oc:var_label>
+          <oc:show_val>Middle Woodland</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="9AD6D837-C89F-4F6F-08C6-34ACB757EDC9" href="http://opencontext.org/vocabularies/dinaa/00001">
+              <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+              <oc:label>Has period</oc:label>
+              <oc:targetLink localType="property" localID="F9226478-270C-48EF-C2B6-B8A392186D48" localURI="http://opencontext.org/properties/F9226478-270C-48EF-C2B6-B8A392186D48" href="http://opencontext.org/vocabularies/dinaa/00019">
+                <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+                <oc:label>Middle Woodland</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>B1AA6598-7E92-439F-3951-CA83A75A024D</arch:variableID>
+          <arch:valueID>6275D893-8094-483D-DE73-C59A96A0D7DB</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/90CE9874-6958-4E48-EBBC-A9AA2E82BE14">90CE9874-6958-4E48-EBBC-A9AA2E82BE14</oc:propid>
+          <oc:var_label type="nominal">Significance</oc:var_label>
+          <oc:show_val>State</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>8CC62390-215D-4B51-6294-08ACD56B4E1E</arch:variableID>
+          <arch:valueID>74055B04-E871-4D4C-3027-F6BBA388F0E8</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/1E7F47AE-A958-42C3-F31B-E35860877A5E">1E7F47AE-A958-42C3-F31B-E35860877A5E</oc:propid>
+          <oc:var_label type="nominal">Site Type</oc:var_label>
+          <oc:show_val>Prehistoric Indian Village</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>8CC62390-215D-4B51-6294-08ACD56B4E1E</arch:variableID>
+          <arch:valueID>BED93204-6562-4234-021D-294080448003</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/2CD01502-F005-4BC6-20E6-CF7A009F2E6C">2CD01502-F005-4BC6-20E6-CF7A009F2E6C</oc:propid>
+          <oc:var_label type="nominal">Site Type</oc:var_label>
+          <oc:show_val>Prehistoric Indian Artifact or Shell Scatter</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>7B1645A9-E11D-474D-E8E1-749FC076A84B</arch:variableID>
+          <arch:valueID>00D90013-B12C-4569-AB4F-518E10C41316</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/772E1126-DD04-4DD6-33A1-4EFC1C466BD9">772E1126-DD04-4DD6-33A1-4EFC1C466BD9</oc:propid>
+          <oc:var_label type="nominal">Phase/Artifact</oc:var_label>
+          <oc:show_val>Gulf Formational</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>7B1645A9-E11D-474D-E8E1-749FC076A84B</arch:variableID>
+          <arch:valueID>F0A1C079-E88C-41AD-EEEA-27B829CCE0A8</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/6476253F-8F29-4854-F9FE-0BE5827C1E25">6476253F-8F29-4854-F9FE-0BE5827C1E25</oc:propid>
+          <oc:var_label type="nominal">Phase/Artifact</oc:var_label>
+          <oc:show_val>Rood</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>7B1645A9-E11D-474D-E8E1-749FC076A84B</arch:variableID>
+          <arch:valueID>E9971423-4078-4612-B058-DEF77C0C54ED</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/3A457A1A-5DBB-4100-B338-1173775CF31A">3A457A1A-5DBB-4100-B338-1173775CF31A</oc:propid>
+          <oc:var_label type="nominal">Phase/Artifact</oc:var_label>
+          <oc:show_val>Shorter</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>7B1645A9-E11D-474D-E8E1-749FC076A84B</arch:variableID>
+          <arch:valueID>D38494E2-FF42-437B-E217-35A741122E71</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/10162D70-0A77-4215-4443-63F9A7C4EA2D">10162D70-0A77-4215-4443-63F9A7C4EA2D</oc:propid>
+          <oc:var_label type="nominal">Phase/Artifact</oc:var_label>
+          <oc:show_val>Sand Tempered</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>7B1645A9-E11D-474D-E8E1-749FC076A84B</arch:variableID>
+          <arch:valueID>CC29E099-D9E7-4ECD-0D01-B65AC66A3BBB</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/1DA5E2A1-2575-49BE-6627-0EEEC400C02B">1DA5E2A1-2575-49BE-6627-0EEEC400C02B</oc:propid>
+          <oc:var_label type="nominal">Phase/Artifact</oc:var_label>
+          <oc:show_val>Cartersville</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>6234913C-2081-4394-C83A-90C380E81500</arch:variableID>
+          <arch:valueID>33F596DC-35BE-4BD4-AE88-3C883625030A</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/D354C635-640C-40E4-ABDC-E60BEB5F8685">D354C635-640C-40E4-ABDC-E60BEB5F8685</oc:propid>
+          <oc:var_label type="alphanumeric">Field number</oc:var_label>
+          <oc:show_val>9QU(OAR)1</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>2B437D4E-83C1-481D-E4F7-26E950846E96</arch:variableID>
+          <arch:valueID>BF793F72-36EB-4018-1C8D-74440B2651FC</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/E75235B5-AA72-475D-CCF4-ED16FC38E1B4">E75235B5-AA72-475D-CCF4-ED16FC38E1B4</oc:propid>
+          <oc:var_label type="nominal">Location accuracy</oc:var_label>
+          <oc:show_val>High</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>FCA47F7A-585A-4791-BA4B-61F18D31D4B7</arch:variableID>
+          <arch:valueID>50DC4A84-150F-41E7-EE78-5A8BA2C3ECD6</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/EB57BB1B-BA9F-4EBE-5DDF-80CF06FF87F7">EB57BB1B-BA9F-4EBE-5DDF-80CF06FF87F7</oc:propid>
+          <oc:var_label type="nominal">Coordinate system</oc:var_label>
+          <oc:show_val>NAD 1927 Zone 16N</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>78E125BE-6CD6-4BA0-6B83-A7DA7D1EDE72</arch:variableID>
+          <arch:valueID>7D933B8C-4C0E-43C5-D86C-281A1B9EA588</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/B3CD0D6E-5F1D-41B2-AF6F-799E57C464B8">B3CD0D6E-5F1D-41B2-AF6F-799E57C464B8</oc:propid>
+          <oc:var_label type="nominal">Deleted</oc:var_label>
+          <oc:show_val>No</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>7AB8C928-464F-4D68-B5FD-41A00E184D92</arch:variableID>
+          <arch:valueID>EF72D2CD-0AA1-45A2-D7E0-2BB94AB54B9E</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/C14EF8A7-D7E9-40F1-53AB-795975A3895A">C14EF8A7-D7E9-40F1-53AB-795975A3895A</oc:propid>
+          <oc:var_label type="nominal">Preservation Prospects</oc:var_label>
+          <oc:show_val>Endangered</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>D7262A13-C821-4EFE-47E9-7AE6C911E97C</arch:variableID>
+          <arch:valueID>6FB355E2-D0A2-4A74-6898-0FA7899D6866</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/A70D475F-64E5-474C-0F7A-92C0EB233917">A70D475F-64E5-474C-0F7A-92C0EB233917</oc:propid>
+          <oc:var_label type="nominal">Public Status</oc:var_label>
+          <oc:show_val>Unknown</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>8AB8DCC0-286F-475E-419F-053C1C3C4F12</arch:variableID>
+          <arch:valueID>EF602CBA-993B-427A-24ED-DEBE28C720D6</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/0A304232-4954-40E2-E2D0-151E79248F0E">0A304232-4954-40E2-E2D0-151E79248F0E</oc:propid>
+          <oc:var_label type="alphanumeric">Current Vegetation</oc:var_label>
+          <oc:show_val>MIX HARDWOOD AND PINES WITH UNDERBRUSH AND BRIARS</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>72FD5BB5-DF07-4753-00B8-938A3A2ECCA2</arch:variableID>
+          <arch:valueID>09211117-AD21-4222-06CF-95E06096E680</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/11FFFEDE-E6C7-4D34-F87C-AADA2FB78D03">11FFFEDE-E6C7-4D34-F87C-AADA2FB78D03</oc:propid>
+          <oc:var_label type="nominal">Register Status</oc:var_label>
+          <oc:show_val>Recommended Eligible</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>7D4DB3D0-C71F-4CB6-9288-F702350D876B</arch:variableID>
+          <arch:integer/>
+          <oc:propid href="http://opencontext.org/properties/DFDF8373-CA94-48DE-5C64-BA79625FFF0B">DFDF8373-CA94-48DE-5C64-BA79625FFF0B</oc:propid>
+          <oc:var_label type="integer">Endangered By</oc:var_label>
+          <oc:show_val>Natural Erosion</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>F97EFC41-EF44-4B9B-FB30-282C0E2B7247</arch:variableID>
+          <arch:valueID>B3B8885A-B0AF-49F0-5109-307A6EB1E3FE</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/EAAB3565-E38D-4BC5-E722-54A6F1EE3225">EAAB3565-E38D-4BC5-E722-54A6F1EE3225</oc:propid>
+          <oc:var_label type="nominal">Preservation State</oc:var_label>
+          <oc:show_val>Cultivated</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>F97EFC41-EF44-4B9B-FB30-282C0E2B7247</arch:variableID>
+          <arch:valueID>C0780696-FF23-417D-5FD3-CA6D9D87E4E7</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/A923A400-CF71-4D4E-EA03-3CFBA7312518">A923A400-CF71-4D4E-EA03-3CFBA7312518</oc:propid>
+          <oc:var_label type="nominal">Preservation State</oc:var_label>
+          <oc:show_val>Eroded</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>5A7636B4-F7DF-40AF-D504-2BDC05469092</arch:variableID>
+          <arch:valueID>B9576461-7571-4726-3E04-5BF243FE1936</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/152348EC-6DBA-48C2-3165-97724EE89AB5">152348EC-6DBA-48C2-3165-97724EE89AB5</oc:propid>
+          <oc:var_label type="alphanumeric">Supervisor</oc:var_label>
+          <oc:show_val>DAVID FRANZ</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>4864F3C9-0DB8-4513-FFE4-C42769C5CB34</arch:variableID>
+          <arch:valueID>3187414D-D123-4D83-73DC-C54445CE870E</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/99725BCC-19E0-4CDD-0299-788C2D81A344">99725BCC-19E0-4CDD-0299-788C2D81A344</oc:propid>
+          <oc:var_label type="alphanumeric">Other Reports</oc:var_label>
+          <oc:show_val>BELOVICH, STEPHANIE J. DAVID S. BROSE, RUSSELL M. WEISMAN, AND NANCY M. WHITE.  1982.  ARCHAEOLOGICAL SURVEY AND GEORGE W. ANDREWS LAKE AND CHATTAHOOCHEE RIVER:  HENRY AND HOUSTON COUNTIES, ALABAMA; EARLY, CLAY, AND SEMINOLE COUNTIES, GEORGIA.  ARCHAEOLOGICAL RESEARCH REPORTS OF THE CLEVELAND MUSEUM OF NATURAL HISTORY NO. 37.
+GIBSON, JOHN 1.  1980.  CULTURAL INVESTIGATION IN THE CHATTAHOOCHEE AND APALACHICOLA RIVER VALLEY: HISTORY, ARCHAEOLOGY AND UNDERWATER REMOTE SENSING.</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>4864F3C9-0DB8-4513-FFE4-C42769C5CB34</arch:variableID>
+          <arch:valueID>59D21785-E3E1-4A15-4C7F-93D17DF95B78</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/A71C4035-750E-4A3C-4721-E0618276C8EB">A71C4035-750E-4A3C-4721-E0618276C8EB</oc:propid>
+          <oc:var_label type="alphanumeric">Other Reports</oc:var_label>
+          <oc:show_val>BELOVICH, STEPHANIE J. DAVID S. BROSE, RUSSELL M. WEISMAN, AND NANCY M. WHITE.  1982.  ARCHAEOLOGICAL SURVEY AND GEORGE W. ANDREWS LAKE AND CHATTAHOOCHEE RIVER:  HENRY AND HOUSTON COUNTIES, ALABAMA; EARLY, CLAY, AND SEMINOLE COUNTIES, GEORGIA.  ARCHAEOLOGICAL RESEARCH REPORTS OF THE CLEVELAND MUSEUM OF NATURAL HISTORY NO. 37.
+HUSCHER, HAROLD.  1959.  APPRAISAL OF THE ARCHAEOLOGICAL RESOURCES OF THE COLUMBIA DAM AND LOCK AREA, CHATTAHOOCHEE RIVER, ALABAMA AND GEORGIA.  SMITHSONIAN INSTITUTION, RIVER BASIN SURVEYS REGIONAL OFFICE, LINCOLN, NEBRASKA.
+KNIGHT, VERNON J., JR., AND TIM S. MISTOVICH.  1984.  WALTER F. GEORGE LAKE: ARCHAEOLOGICAL SURVEY OF FEE OWNED LANDS, ALABAMA AND GEORGIA.  REPORT SUBMITTED TO THE U.S. ARMY CORPS OF ENGINEERS, MOBILE.  UNIVERSITY OF ALABAMA, OFFICE OF ARCHAEOLOGICAL RESEARCH.  REPORT OF INVESTIGATIONS 42, UNIVERSITY, AL.
+REID, DAWN.  1999.  PHASE II INVESTIGATION OF 9QU55 LAKE WALTER F. GEORGE, QUITMAN COUNTY, GEORGIA.  BROCKINGTON AND ASSOCIATES.  REPORT SUBMITTED TO THE U.S. ARMY CORPS OF ENGINEERS, MOBILE DISTRICT.</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>4864F3C9-0DB8-4513-FFE4-C42769C5CB34</arch:variableID>
+          <arch:valueID>ABF17C58-1112-4F2D-C63D-6906FF587FF2</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/7D1C41E1-BA29-429B-89D2-4C4C454F0854">7D1C41E1-BA29-429B-89D2-4C4C454F0854</oc:propid>
+          <oc:var_label type="alphanumeric">Other Reports</oc:var_label>
+          <oc:show_val>BELOVICH, STEPHANIE J. DAVID S. BROSE, RUSSELL M. WEISMAN, AND NANCY M. WHITE.  1982.  ARCHAEOLOGICAL SURVEY AND GEORGE W. ANDREWS LAKE AND CHATTAHOOCHEE RIVER:  HENRY AND HOUSTON COUNTIES, ALABAMA; EARLY, CLAY, AND SEMINOLE COUNTIES, GEORGIA.  ARCHAEOLOGICAL RESEARCH REPORTS OF THE CLEVELAND MUSEUM OF NATURAL HISTORY NO. 37.
+HUSCHER, HAROLD.  1959.  APPRAISAL OF THE ARCHAEOLOGICAL RESOURCES OF THE COLUMBIA DAM AND LOCK AREA, CHATTAHOOCHEE RIVER, ALABAMA AND GEORGIA.  SMITHSONIAN INSTITUTION, RIVER BASIN SURVEYS REGIONAL OFFICE, LINCOLN, NEBRASKA.</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>8AEC0EB1-4CA8-46CD-BCF0-327941B87EF3</arch:variableID>
+          <arch:valueID>75AF11DE-6BEA-4D63-9A90-E92EA5679439</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/5A7B337A-4586-4968-B638-11F259EFA77D">5A7B337A-4586-4968-B638-11F259EFA77D</oc:propid>
+          <oc:var_label type="calendric">Investigation Date</oc:var_label>
+          <oc:show_val>2009-08-01</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>C2DF43BA-DFEE-4458-3242-68E70A907C9F</arch:variableID>
+          <arch:valueID>F66AE208-FEA1-4D60-258C-F55C9FFA4400</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/AFA08618-F7F2-4CBB-62B7-C8F7AE68C000">AFA08618-F7F2-4CBB-62B7-C8F7AE68C000</oc:propid>
+          <oc:var_label type="alphanumeric">Affiliation</oc:var_label>
+          <oc:show_val>Brockington and Associates, Incorporated</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>235B8873-F229-42E6-78AC-1D06C69621E8</arch:variableID>
+          <arch:valueID>94708D55-6EE3-46F9-33A1-A9335C779E6D</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/050203AB-E783-4F41-905D-2540C754428C">050203AB-E783-4F41-905D-2540C754428C</oc:propid>
+          <oc:var_label type="alphanumeric">Artifacts Collected</oc:var_label>
+          <oc:show_val>3 BRICK FRAGMENT, 1 CHERT FLAKE, 10 COASTAL PLAIN CHERT DEBITAGE, 2 ERODED BODY SHERD (COARSE SAND TEMPERED), 3 RESIDUAL SHERD (SAND TEMPERED), 1 INDETERMINATE COMPLICATED STAMPED BODY SHERD/ 2 INDETERMINATE DECORATION BODY SHERD (FINE/MEDIUM SAND TEMPERED), 11 IRON WIRE FRAGMENT, 1 PLAIN BODY SHERD (FINE/MEDIUM SAND TEMPERED), 1 PLAIN BODY SHERD (VERY COARSE SAND TEMPERED).</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>B3816C5E-E283-4BCF-F5ED-4C636CA9D5B9</arch:variableID>
+          <arch:valueID>F66AE208-FEA1-4D60-258C-F55C9FFA4400</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/3E33638B-4F4D-4F08-66F2-51C32F232F52">3E33638B-4F4D-4F08-66F2-51C32F232F52</oc:propid>
+          <oc:var_label type="alphanumeric">Location of Collections</oc:var_label>
+          <oc:show_val>Brockington and Associates, Incorporated</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>9617D4BA-E69E-474B-3283-B9B1F7ACA160</arch:variableID>
+          <arch:valueID>86FE1C06-4184-4AA1-8E6F-1FACD7870A17</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/3B99796E-6C38-480D-8CFD-C5366757CC4A">3B99796E-6C38-480D-8CFD-C5366757CC4A</oc:propid>
+          <oc:var_label type="alphanumeric">Report Title</oc:var_label>
+          <oc:show_val>ASSESSMENT OF 15 SITES IN ACF BASIN (FRANZ AND WHITLEY 2010-REPORT PENDING)</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>8191B228-88FC-4841-2DF0-0C2F2E7FE560</arch:variableID>
+          <arch:valueID>F66AE208-FEA1-4D60-258C-F55C9FFA4400</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/E1D0C2A8-CFE0-48F9-4216-C932AD154FE8">E1D0C2A8-CFE0-48F9-4216-C932AD154FE8</oc:propid>
+          <oc:var_label type="alphanumeric">Location of Documentation</oc:var_label>
+          <oc:show_val>Brockington and Associates, Incorporated</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>EB5BFA11-F000-4977-443F-2CBC32558E75</arch:variableID>
+          <arch:integer>38171</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/40730542-23F2-4CE2-3EE8-D6DFDE55DB9D">40730542-23F2-4CE2-3EE8-D6DFDE55DB9D</oc:propid>
+          <oc:var_label type="integer">Gnahrgis id</oc:var_label>
+          <oc:show_val>38171</oc:show_val>
+        </arch:property>
+      </arch:properties>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/2A1B75E6-8C79-49B9-873A-A2E006669691">
+        <oc:name>United States</oc:name>
+        <oc:id>2A1B75E6-8C79-49B9-873A-A2E006669691</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/D2E98C2B-BD2F-48C9-CE23-E9F8F6ADF736">
+        <oc:name>Georgia</oc:name>
+        <oc:id>D2E98C2B-BD2F-48C9-CE23-E9F8F6ADF736</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/FD019D66-B231-40B3-93FF-4038E645F041">
+        <oc:name>Quitman</oc:name>
+        <oc:id>FD019D66-B231-40B3-93FF-4038E645F041</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:metadata>
+    <dc:title>Georgia Archaeological Site File (GASF): 9QU55 (Site)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2013-11-14</dc:date>
+    <dc:subject>cultural resource management</dc:subject>
+    <dc:subject>site files</dc:subject>
+    <dc:subject>state historical preservation office</dc:subject>
+    <dc:subject>archaeology</dc:subject>
+    <dc:subject>North America</dc:subject>
+    <dc:subject>Georgia</dc:subject>
+    <dc:subject>DINAA</dc:subject>
+    <dc:subject/>
+    <dc:creator href="http://opencontext.org/persons/4D0DA783-B5A3-44CF-342A-4428F3116A71">Georgia Archaeological Site File (GASF) Curators</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/0DAE9344-EB63-40BC-CFBE-B79437F87504</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/64013C33-4039-46C9-609A-A758CE51CA49">Georgia Archaeological Site File (GASF)</oc:project_name>
+    <oc:pub_date>2013-11-14T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Georgia+SHPO%3A+9QU55+%28Site%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=cultural+resource+management&amp;rft.subject=site+files&amp;rft.subject=state+historical+preservation+office&amp;rft.subject=archaeology&amp;rft.subject=North+America&amp;rft.subject=Georgia&amp;rft.subject=DINAA&amp;rft.subject=&amp;rft.creator=Georgia+SHPO&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2F0DAE9344-EB63-40BC-CFBE-B79437F87504</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>32.026675985173</oc:geo_lat>
+      <oc:geo_long>-84.990234375</oc:geo_long>
+      <oc:metasource ref_type="self" href="http://opencontext.org/subjects/0DAE9344-EB63-40BC-CFBE-B79437F87504" specificity="-11">
+        <oc:note>Location data approximated as a security precaution. Only accurate to within ~15km.</oc:note>
+        <oc:source_name>9QU55</oc:source_name>
+        <oc:source_id>0DAE9344-EB63-40BC-CFBE-B79437F87504</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/publicdomain/zero/1.0/">
+      <oc:lic_name>Zero (Public Domain)</oc:lic_name>
+      <oc:lic_vers>1</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/publicdomain/zero/1.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/p/zero/1.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2013-11-14T19:07:23-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2013/11/14 19:07:23</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(3,050 BCE - 1540 CE)</oc:name>
+        <oc:chrono isDuration="true">
+          <oc:time_start>-3050</oc:time_start>
+          <oc:time_finish>1540</oc:time_finish>
+          <oc:metasource ref_type="self" href="http://opencontext.org/subjects/0DAE9344-EB63-40BC-CFBE-B79437F87504">
+            <oc:source_name>9QU55</oc:source_name>
+            <oc:source_id>0DAE9344-EB63-40BC-CFBE-B79437F87504</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="oc">
+          <oc:creator_name>Open Context Editors</oc:creator_name>
+          <oc:set_label>Default set</oc:set_label>
+          <oc:set_id>Default set</oc:set_id>
+          <oc:set_date>2013-11-13T13:22:34-07:00</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:spatialUnit>

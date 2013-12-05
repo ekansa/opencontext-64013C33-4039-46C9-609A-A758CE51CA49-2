@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="F33957FD-7B2F-4CA6-B918-068E80BCF714" ownedBy="64013C33-4039-46C9-609A-A758CE51CA49">
+  <arch:name>
+    <arch:string>Johnson</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Region</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>z_1_a90afcea6</oc:source>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>B90CA9CC-B313-4525-8F26-0896AE7D3ED2</arch:variableID>
+          <arch:valueID>8EA1B1C4-31DB-4F0F-6911-250CA8F2CACE</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/D968AAEC-AD23-4EA2-0166-8087244EE7CC">D968AAEC-AD23-4EA2-0166-8087244EE7CC</oc:propid>
+          <oc:var_label type="nominal">Gazetteer reference</oc:var_label>
+          <oc:show_val>Johnson County (GeoNames:4202983)</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="B90CA9CC-B313-4525-8F26-0896AE7D3ED2" href="http://purl.org/dc/terms/references">
+              <oc:vocabulary href="http://concordia.atlantides.org/">Concordia</oc:vocabulary>
+              <oc:label>References</oc:label>
+              <oc:targetLink localType="property" localID="D968AAEC-AD23-4EA2-0166-8087244EE7CC" localURI="http://opencontext.org/properties/D968AAEC-AD23-4EA2-0166-8087244EE7CC" href="http://www.geonames.org/4202983">
+                <oc:vocabulary href="http://www.geonames.org/">GeoNames</oc:vocabulary>
+                <oc:label>Johnson County</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>87556028-677C-4C59-BA35-AE509BC825AD</arch:variableID>
+          <arch:valueID>6958E630-3F28-4624-162F-58408621CC5B</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/9451C8A7-0CE8-4263-8B1B-B3F9E2589CF8">9451C8A7-0CE8-4263-8B1B-B3F9E2589CF8</oc:propid>
+          <oc:var_label type="alphanumeric">County name</oc:var_label>
+          <oc:show_val>Johnson County</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>90FFF242-40A6-4A71-45A3-2964B578EA25</arch:variableID>
+          <arch:integer>167</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/050AF497-6011-488C-287D-1FE8723227D0">050AF497-6011-488C-287D-1FE8723227D0</oc:propid>
+          <oc:var_label type="integer">County fips</oc:var_label>
+          <oc:show_val>167</oc:show_val>
+        </arch:property>
+      </arch:properties>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/2A1B75E6-8C79-49B9-873A-A2E006669691">
+        <oc:name>United States</oc:name>
+        <oc:id>2A1B75E6-8C79-49B9-873A-A2E006669691</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/D2E98C2B-BD2F-48C9-CE23-E9F8F6ADF736">
+        <oc:name>Georgia</oc:name>
+        <oc:id>D2E98C2B-BD2F-48C9-CE23-E9F8F6ADF736</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:children>
+    <oc:tree id="default">
+      <oc:child href="http://opencontext.org/subjects/D30CF2F2-03EA-4B5F-47AD-CF2A3C725C82">
+        <oc:name>9JH1</oc:name>
+        <oc:id>D30CF2F2-03EA-4B5F-47AD-CF2A3C725C82</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/80EDBC3C-03B5-4185-19A7-BADBCAA9268D">
+        <oc:name>9JH10</oc:name>
+        <oc:id>80EDBC3C-03B5-4185-19A7-BADBCAA9268D</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/C1733D76-98BE-4C48-E809-FFB5B91B49C1">
+        <oc:name>9JH11</oc:name>
+        <oc:id>C1733D76-98BE-4C48-E809-FFB5B91B49C1</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/C2F62258-EAC0-4D94-45B5-FE526ED6D9A3">
+        <oc:name>9JH12</oc:name>
+        <oc:id>C2F62258-EAC0-4D94-45B5-FE526ED6D9A3</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/6D906463-A9E8-4E79-D65E-12DB20CBA239">
+        <oc:name>9JH13</oc:name>
+        <oc:id>6D906463-A9E8-4E79-D65E-12DB20CBA239</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/09A98BE9-BC97-48A0-1574-CBAB2F08D72E">
+        <oc:name>9JH14</oc:name>
+        <oc:id>09A98BE9-BC97-48A0-1574-CBAB2F08D72E</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/09D6BA7B-F227-457B-B35C-FA847ED8A411">
+        <oc:name>9JH15</oc:name>
+        <oc:id>09D6BA7B-F227-457B-B35C-FA847ED8A411</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/976BAEBE-2242-4624-A088-3BB98B1D7EE6">
+        <oc:name>9JH16</oc:name>
+        <oc:id>976BAEBE-2242-4624-A088-3BB98B1D7EE6</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/BDF067F4-96F9-48B2-EC54-182FB43CCC45">
+        <oc:name>9JH17</oc:name>
+        <oc:id>BDF067F4-96F9-48B2-EC54-182FB43CCC45</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/1097E5C5-9B18-421A-5E72-8BBB22892D3F">
+        <oc:name>9JH18</oc:name>
+        <oc:id>1097E5C5-9B18-421A-5E72-8BBB22892D3F</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/DDFB3780-AC55-436E-7315-5BEF1115B44E">
+        <oc:name>9JH19</oc:name>
+        <oc:id>DDFB3780-AC55-436E-7315-5BEF1115B44E</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/C0F050A6-6385-485E-09B5-30A5A148BB53">
+        <oc:name>9JH2</oc:name>
+        <oc:id>C0F050A6-6385-485E-09B5-30A5A148BB53</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/D1A2B4CD-06DE-44FB-1BD0-5E6EC84D3793">
+        <oc:name>9JH3</oc:name>
+        <oc:id>D1A2B4CD-06DE-44FB-1BD0-5E6EC84D3793</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/118C286C-749E-472B-C3FC-F79D734090B8">
+        <oc:name>9JH4</oc:name>
+        <oc:id>118C286C-749E-472B-C3FC-F79D734090B8</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/DE214962-AE66-4F44-9003-BEBE495F1D25">
+        <oc:name>9JH5</oc:name>
+        <oc:id>DE214962-AE66-4F44-9003-BEBE495F1D25</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/8581A44C-8D21-4DC3-D1D1-931EC9F7F3D2">
+        <oc:name>9JH6</oc:name>
+        <oc:id>8581A44C-8D21-4DC3-D1D1-931EC9F7F3D2</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/8195B005-EF21-4650-DA8F-5E0C173AFCC0">
+        <oc:name>9JH7</oc:name>
+        <oc:id>8195B005-EF21-4650-DA8F-5E0C173AFCC0</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/72413D21-B0FE-4FE5-F3E4-21DEF0FE433D">
+        <oc:name>9JH8</oc:name>
+        <oc:id>72413D21-B0FE-4FE5-F3E4-21DEF0FE433D</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/A8B5BEE6-3FBD-48EB-1753-2114CF767B28">
+        <oc:name>9JH9</oc:name>
+        <oc:id>A8B5BEE6-3FBD-48EB-1753-2114CF767B28</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+    </oc:tree>
+  </oc:children>
+  <oc:metadata>
+    <dc:title>Georgia Archaeological Site File (GASF): Johnson (Region)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2013-11-15</dc:date>
+    <dc:subject>archaeology</dc:subject>
+    <dc:subject>cultural resource management</dc:subject>
+    <dc:subject>DINAA</dc:subject>
+    <dc:subject>Georgia</dc:subject>
+    <dc:subject>North America</dc:subject>
+    <dc:subject>site files</dc:subject>
+    <dc:subject>state historical preservation office</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/">Georgia Archaeological Site File (GASF) Curators</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/F33957FD-7B2F-4CA6-B918-068E80BCF714</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/64013C33-4039-46C9-609A-A758CE51CA49">Georgia Archaeological Site File (GASF)</oc:project_name>
+    <oc:pub_date>2013-11-15T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Georgia+Archaeological+Site+File+%28GASF%29%3A+Johnson+%28Region%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=archaeology&amp;rft.subject=cultural+resource+management&amp;rft.subject=DINAA&amp;rft.subject=Georgia&amp;rft.subject=North+America&amp;rft.subject=site+files&amp;rft.subject=state+historical+preservation+office&amp;rft.creator=Georgia+Archaeological+Site+File+%28GASF%29+Curators&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2FF33957FD-7B2F-4CA6-B918-068E80BCF714</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>32.666440963745</oc:geo_lat>
+      <oc:geo_long>-82.69556427002</oc:geo_long>
+      <oc:metasource ref_type="self" href="http://opencontext.org/subjects/F33957FD-7B2F-4CA6-B918-068E80BCF714">
+        <oc:note>Data from geonames.org</oc:note>
+        <oc:source_name>Johnson</oc:source_name>
+        <oc:source_id>F33957FD-7B2F-4CA6-B918-068E80BCF714</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/publicdomain/zero/1.0/">
+      <oc:lic_name>Zero (Public Domain)</oc:lic_name>
+      <oc:lic_vers>1</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/publicdomain/zero/1.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/p/zero/1.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2013-11-15T22:14:50-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2013/11/15 22:14:50</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags/>
+  </oc:social_usage>
+</arch:spatialUnit>
